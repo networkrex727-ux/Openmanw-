@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized central hexagon honeycomb cell representing DevHive -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,24 L78,38 L78,66 L54,80 L30,66 L30,38 Z"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FBBF24" />
+    
+    <!-- Code brackets inside the honeycomb cell -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M46,45 L38,52 L46,59"
+        android:strokeWidth="3"
+        android:strokeColor="#0F172A"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M62,45 L70,52 L62,59"
+        android:strokeWidth="3"
+        android:strokeColor="#0F172A"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M57,41 L51,63"
+        android:strokeWidth="3"
+        android:strokeColor="#0F172A"
+        android:strokeLineCap="round" />
+</vector>
